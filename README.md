@@ -9,4 +9,4 @@ A [Prometheus](https://prometheus.io/) exporter that reports the status of [Ubis
 docker run -p 8000:8000 ewpratten/ubisoft_status_exporter:latest
 ```
 
-Metrics will be available on [http://localhost:8000/metrics](localhost:8000/metrics).
+Metrics will be available on [localhost:8000/metrics](http://localhost:8000/metrics).
